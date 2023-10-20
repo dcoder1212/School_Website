@@ -1,0 +1,32 @@
+.tarvel_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.tarvel_mainDiv img
+{
+    width:100%;
+}
+
+.tarvel_mainDiv h5, .tarvel_mainDiv p
+{
+    margin: 20px;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding:6px 22px ;
+    border-radius:10px ;
+    margin-bottom:15px ;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.achvievement_text span
+{
+    color: orange;
+}
